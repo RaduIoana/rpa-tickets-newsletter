@@ -6,9 +6,9 @@
   "dependencies": {
     "UiPath.ComplexScenarios.Activities": "[1.5.0]",
     "UiPath.Excel.Activities": "[2.24.1]",
-    "UiPath.Mail.Activities": "[1.23.11]",
+    "UiPath.Mail.Activities": "[1.24.12]",
     "UiPath.Presentations.Activities": "[1.14.1]",
-    "UiPath.System.Activities": "[24.11.0-preview]",
+    "UiPath.System.Activities": "[24.10.7]",
     "UiPath.UIAutomation.Activities": "[24.11.1-preview]",
     "UiPath.Word.Activities": "[1.20.1]"
   },
@@ -50,6 +50,14 @@
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "eb9105ad-3ab8-424e-9ff5-90e53b86aaa1",
+      "input": [],
+      "output": []
+    }
+  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
